@@ -65,7 +65,6 @@ tensorboard==1.15.0
 tensorboardX==2.4
 test-tube==0.7.5
 TextGrid==1.5
-torch==1.10.0
 torchvision==0.9.1
 tqdm==4.62.3
 typing-extensions==3.10.0.2
